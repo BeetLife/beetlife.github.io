@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olive Oil on Beet Life</title>
+    <link>https://beet.life/ingredients/olive-oil/</link>
+    <description>Recent content in Olive Oil on Beet Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 12:45:43 -0400</lastBuildDate>
+    <atom:link href="https://beet.life/ingredients/olive-oil/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lentil Loaf</title>
+      <link>https://beet.life/recipes/lentil-loaf/</link>
+      <pubDate>Wed, 27 Apr 2016 12:45:43 -0400</pubDate>
+      
+      <guid>https://beet.life/recipes/lentil-loaf/</guid>
+      <description>&lt;p&gt;This lentil loaf is great for the holidays, but it&amp;rsquo;s also a great post-workout meal. I used flaxseed meal in this recipe to get some omega-3 fatty acids. Omega-3s are &amp;ldquo;good&amp;rdquo; fats that help reduce muscle soreness, improve fat burning, and aid in muscle recovery. It&amp;rsquo;s a great substitute for fish oil. Flaxseed also lowers LDL (bad) cholesterol in the bloodstream and helps maintain the heart&amp;rsquo;s natural rhythm. Because this loaf takes a while to cook, I make a huge batch every few weeks and freeze leftovers for days we don&amp;rsquo;t have time to cook.&lt;/p&gt;
+
+&lt;p&gt;Substitute with wheat or spelt flour if you can&amp;rsquo;t find vital wheat gluten (natural protein found in wheat) or vegan breadcrumbs in your local grocery store. Don&amp;rsquo;t worry! You&amp;rsquo;ll still get plenty of protein from the lentils, split peas and barley without vital wheat gluten.&lt;/p&gt;
+
+&lt;p&gt;Hope you enjoy this recipe as much as we do! Happy Cooking!&lt;/p&gt;
+
+
+&lt;h1 itemprop=&#34;name&#34; class=&#34;mdl-typography--text-center&#34;&gt;Lentil Loaf&lt;/h1&gt;
+&lt;ul class=&#34;bl-recipe-setup&#34;&gt;
+  &lt;li itemprop=&#34;recipeYield&#34;&gt;&lt;i class=&#34;fa fa-cutlery&#34;&gt;&lt;/i&gt;Yield: 12 servings&lt;/li&gt;
+  &lt;li itemprop=&#34;prepTime&#34; content=&#34;PT5M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Preparation: 5 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;cookTime&#34; content=&#34;PT1H20M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Cooking: 1 hour 20 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;totalTime&#34; content=&#34;PT1H25M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Total: 1 hour 25 minutes&lt;/li&gt;
+  
+  
+  &lt;li class=&#34;bl-diets&#34;&gt;Diets:
+  
+  
+  
+  &lt;span itemprop=&#34;suitableForDiet&#34; itemscope itemtype=&#34;http://schema.org/VeganDiet&#34;&gt;&lt;a href=&#34;https://beet.life/diets/vegan&#34;&gt;Vegan&lt;/a&gt;&lt;/span&gt;
+  
+  
+  
+  &lt;span itemprop=&#34;suitableForDiet&#34; itemscope itemtype=&#34;http://schema.org/VegetarianDiet&#34;&gt;&lt;a href=&#34;https://beet.life/diets/vegetarian&#34;&gt;Vegetarian&lt;/a&gt;&lt;/span&gt;
+  
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul class=&#34;bl-recipe-ingredients&#34;&gt;
+  
+  
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/balsamic-vinegar/&#34;&gt;Balsamic Vinegar&lt;/a&gt;: 4 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/barley/&#34;&gt;Barley&lt;/a&gt;: 1 cup, dry&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/bread-crumbs/&#34;&gt;Bread Crumbs&lt;/a&gt;: 1 cup&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/broccoli-slaw/&#34;&gt;Broccoli Slaw&lt;/a&gt;: 2 cups&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/celery/&#34;&gt;Celery&lt;/a&gt;: 2 stalks, chopped&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/green-split-peas/&#34;&gt;Green Split Peas&lt;/a&gt;: 1 1/2 cup, dry&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/ground-flaxseed-meal/&#34;&gt;Ground Flaxseed Meal&lt;/a&gt;: 3 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/lemon-pepper/&#34;&gt;Lemon Pepper&lt;/a&gt;: to taste&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/olive-oil/&#34;&gt;Olive Oil&lt;/a&gt;: 2 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/onion/&#34;&gt;Onion&lt;/a&gt;: 1 large, chopped&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/pecans/&#34;&gt;Pecans&lt;/a&gt;: 1 cup, raw&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/raisins/&#34;&gt;Raisins&lt;/a&gt;: 1 cup, large&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/rosemary/&#34;&gt;Rosemary&lt;/a&gt;: 3 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/sage/&#34;&gt;Sage&lt;/a&gt;: 3 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/salt/&#34;&gt;Salt&lt;/a&gt;: to taste&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/thyme/&#34;&gt;Thyme&lt;/a&gt;: 3 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/tomato-paste/&#34;&gt;Tomato Paste&lt;/a&gt;: 2 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/vital-wheat-gluten/&#34;&gt;Vital Wheat Gluten&lt;/a&gt;: 1 cup&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/water/&#34;&gt;Water&lt;/a&gt;: 10 cups&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/yellow-lentil/&#34;&gt;Yellow Lentil&lt;/a&gt;: 1 cup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Instructions&lt;/h2&gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Boil 10 cups of water in a large pot. Add dry lentils, green split peas and barley.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0329-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0329-mobile@1x.jpg 435w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0329-mobile@2x.jpg 870w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0329-full@1x.jpg 876w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0329-mobile@3x.jpg 1305w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0329-full@2x.jpg 1752w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0329-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the following recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Add rosemary, thyme, sage, lemon pepper and salt. Keep stirring every few minutes so the lentils, split peas and barley do not stick to the bottom of the pot.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0319-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0319-mobile@1x.jpg 435w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0319-mobile@2x.jpg 870w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0319-full@1x.jpg 876w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0319-mobile@3x.jpg 1305w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0319-full@2x.jpg 1752w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0319-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the following recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Boil in medium heat until soft. It&amp;rsquo;ll take around 35 minutes. Add some water (&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; cup at a time) if all water has been absored and lentils, green peas and barley are still tough.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Preheat oven to 400 degrees.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Add the chopped onions, pecans, raisins, broccoli slaw and celery. Stir well so all the ingredients are mixed together.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0370-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0370-mobile@1x.jpg 435w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0370-mobile@2x.jpg 870w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0370-full@1x.jpg 876w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0370-mobile@3x.jpg 1305w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0370-full@2x.jpg 1752w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0370-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the following recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Turn stove off. Add vital wheat gluten, bread crumbs and ground flaxseed meal. Stir well.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0381-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0381-mobile@1x.jpg 435w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0381-mobile@2x.jpg 870w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0381-full@1x.jpg 876w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0381-mobile@3x.jpg 1305w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0381-full@2x.jpg 1752w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0381-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the following recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;It should have a doughy consistency. If it&amp;rsquo;s watery, add a little more vital wheat gluten.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0386-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0386-mobile@1x.jpg 435w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0386-mobile@2x.jpg 870w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0386-full@1x.jpg 876w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0386-mobile@3x.jpg 1305w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0386-full@2x.jpg 1752w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0386-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the following recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Grease a 9 x 13 x 2-inch baking pan with some olive oil. Add mixture and press firmly into the pan. Set aside.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0414-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0414-mobile@1x.jpg 435w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0414-full@1x.jpg 531w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0414-mobile@2x.jpg 870w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0414-full@2x.jpg 1063w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0414-mobile@3x.jpg 1305w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0414-full@3x.jpg 1594w&#34; data-sizes=&#34;(max-width: 531px) 100vw, 531px&#34; alt=&#34;Image demonstrating the following recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;In a small bowl, mix together the balsamic vinegar and tomato paste. Glaze the mixture on top of loaf in the baking pan.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0438-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0438-mobile@1x.jpg 435w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0438-full@1x.jpg 531w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0438-mobile@2x.jpg 870w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0438-full@2x.jpg 1063w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0438-mobile@3x.jpg 1305w, https://beet.life/images/recipes/lentil-loaf/20160417-DSC_0438-full@3x.jpg 1594w&#34; data-sizes=&#34;(max-width: 531px) 100vw, 531px&#34; alt=&#34;Image demonstrating the following recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Bake in the oven for 45 minutes at 400 degrees. DO NOT cover with foil.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Let it cool for five to ten minutes before serving.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/lentil-loaf/20160420-DSC_0500-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/lentil-loaf/20160420-DSC_0500-mobile@1x.jpg 435w, https://beet.life/images/recipes/lentil-loaf/20160420-DSC_0500-mobile@2x.jpg 870w, https://beet.life/images/recipes/lentil-loaf/20160420-DSC_0500-full@1x.jpg 876w, https://beet.life/images/recipes/lentil-loaf/20160420-DSC_0500-mobile@3x.jpg 1305w, https://beet.life/images/recipes/lentil-loaf/20160420-DSC_0500-full@2x.jpg 1752w, https://beet.life/images/recipes/lentil-loaf/20160420-DSC_0500-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the following recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+&lt;p&gt;Remember to tag &lt;a href=&#34;https://twitter.com/intent/tweet?text=Tried%20%40BeetLife%27s%20%27Lentil%20Loaf%27%20Recipe;url=https%3a%2f%2fbeet.life%2frecipes%2flentil-loaf%2f;hashtags=ourbeetlife&#34;&gt;#ourbeetlife&lt;/a&gt; if you try this recipe!&lt;/p&gt;
+
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt; - This is not a sponsored post. We are not affiliated with any products or brands shown or mentioned in this post and we did not receive any compensation for writing this post at the time of writing.&lt;/em&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

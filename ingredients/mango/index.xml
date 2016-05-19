@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mango on Beet Life</title>
+    <link>https://beet.life/ingredients/mango/</link>
+    <description>Recent content in Mango on Beet Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2016 11:00:08 -0400</lastBuildDate>
+    <atom:link href="https://beet.life/ingredients/mango/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Slow Cooked Vegan Brown Rice Pudding</title>
+      <link>https://beet.life/recipes/slow-cooked-brown-rice-pudding/</link>
+      <pubDate>Tue, 26 Apr 2016 11:00:08 -0400</pubDate>
+      
+      <guid>https://beet.life/recipes/slow-cooked-brown-rice-pudding/</guid>
+      <description>&lt;p&gt;We stopped by Zhu Pan-Asian Vegan Restaurant in Arlington, MA for lunch after picking up our camera from the Nikon Repair Center a few weeks ago. We tried their brown rice pudding for dessert and I was hooked onto brown rice pudding ever since! This is my version. It&amp;rsquo;s so easy to make, you have to try it!&lt;/p&gt;
+
+&lt;p&gt;The agave nectar in this recipe is optional. Some people like it sweeter than others so the amount of agave nectar in this recipe can be modified&amp;ndash; less or more or none is up to you! Also, if you don&amp;rsquo;t have cardamon pods or you don&amp;rsquo;t like having cardamon pod bits in your pudding, substitute with 1 tbsp of cardamon powder.&lt;/p&gt;
+
+
+&lt;h1 itemprop=&#34;name&#34; class=&#34;mdl-typography--text-center&#34;&gt;Slow Cooked Vegan Brown Rice Pudding&lt;/h1&gt;
+&lt;ul class=&#34;bl-recipe-setup&#34;&gt;
+  &lt;li itemprop=&#34;recipeYield&#34;&gt;&lt;i class=&#34;fa fa-cutlery&#34;&gt;&lt;/i&gt;Yield: 5 servings&lt;/li&gt;
+  &lt;li itemprop=&#34;prepTime&#34; content=&#34;PT5M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Preparation: 5 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;cookTime&#34; content=&#34;PT5H&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Cooking: 5 hours&lt;/li&gt;
+  &lt;li itemprop=&#34;totalTime&#34; content=&#34;PT5H5M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Total: 5 hours 5 minutes&lt;/li&gt;
+  
+  
+  &lt;li class=&#34;bl-diets&#34;&gt;Diets:
+  
+  
+  
+  &lt;span itemprop=&#34;suitableForDiet&#34; itemscope itemtype=&#34;http://schema.org/VeganDiet&#34;&gt;&lt;a href=&#34;https://beet.life/diets/vegan&#34;&gt;Vegan&lt;/a&gt;&lt;/span&gt;
+  
+  
+  
+  &lt;span itemprop=&#34;suitableForDiet&#34; itemscope itemtype=&#34;http://schema.org/VegetarianDiet&#34;&gt;&lt;a href=&#34;https://beet.life/diets/vegetarian&#34;&gt;Vegetarian&lt;/a&gt;&lt;/span&gt;
+  
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul class=&#34;bl-recipe-ingredients&#34;&gt;
+  
+  
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/agave-nectar/&#34;&gt;Agave Nectar&lt;/a&gt;: 1 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/brown-rice/&#34;&gt;Brown Rice&lt;/a&gt;: 1 cup, uncooked&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/cardamon/&#34;&gt;Cardamon&lt;/a&gt;: 8 pods&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/coconut-milk/&#34;&gt;Coconut Milk&lt;/a&gt;: 3/4 cup&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/dried-blueberries/&#34;&gt;Dried Blueberries&lt;/a&gt;: 1/8 cup&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/fennel-seeds/&#34;&gt;Fennel Seeds&lt;/a&gt;: 1 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/garbanzo-beans/&#34;&gt;Garbanzo Beans&lt;/a&gt;: 1/4 cup, dry&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/mango/&#34;&gt;Mango&lt;/a&gt;: 1 ripe&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/raisins/&#34;&gt;Raisins&lt;/a&gt;: 1/2 cup&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/vanilla-extract/&#34;&gt;Vanilla Extract&lt;/a&gt;: 1 tsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/water/&#34;&gt;Water&lt;/a&gt;: 4 1/2 cups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Instructions&lt;/h2&gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Put coconut milk, rice, raisins, dried blueberries and garbanzo beans in slow cooker. Set slow cooker on high.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Peel mango and cut mango into small square cubes. Discard the mango skin. Add the mango cubes into the slow cooker.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0134-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0134-mobile@1x.jpg 435w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0134-mobile@2x.jpg 870w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0134-full@1x.jpg 876w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0134-mobile@3x.jpg 1305w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0134-full@2x.jpg 1752w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0134-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the previous recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Add the cardamon, fennel seeds, vanilla extract, agave nectar and 4 &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; cups of water in the slow cooker. Stir well.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0098-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0098-mobile@1x.jpg 435w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0098-mobile@2x.jpg 870w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0098-full@1x.jpg 876w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0098-mobile@3x.jpg 1305w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0098-full@2x.jpg 1752w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0098-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the previous recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Slow cook for 5 hours until creamy.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0209-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0209-mobile@1x.jpg 435w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0209-mobile@2x.jpg 870w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0209-full@1x.jpg 876w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0209-mobile@3x.jpg 1305w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0209-full@2x.jpg 1752w, https://beet.life/images/recipes/slow-cooked-brown-rice-pudding/20160412-DSC_0209-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the previous recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Refrigerate before eating. The pudding tends to thicken after refrigeration so I recommend adding a little bit of coconut milk before serving. I also sprinkled some raw almonds and coconut flakes on top (totally optional). Happy Eating!&lt;/p&gt;
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+&lt;p&gt;Remember to tag &lt;a href=&#34;https://twitter.com/intent/tweet?text=Tried%20%40BeetLife%27s%20%27Slow%20Cooked%20Vegan%20Brown%20Rice%20Pudding%27%20Recipe;url=https%3a%2f%2fbeet.life%2frecipes%2fslow-cooked-brown-rice-pudding%2f;hashtags=ourbeetlife&#34;&gt;#ourbeetlife&lt;/a&gt; if you try this recipe!&lt;/p&gt;
+
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt; - This is not a sponsored post. We are not affiliated with any products or brands shown or mentioned in this post and we did not receive any compensation for writing this post at the time of writing.&lt;/em&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

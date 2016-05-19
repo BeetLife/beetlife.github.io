@@ -57,7 +57,7 @@
   &lt;li itemprop=&#34;recipeYield&#34;&gt;&lt;i class=&#34;fa fa-cutlery&#34;&gt;&lt;/i&gt;Yield: 6 servings&lt;/li&gt;
   &lt;li itemprop=&#34;prepTime&#34; content=&#34;PT8M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Preparation: 8 minutes&lt;/li&gt;
   &lt;li itemprop=&#34;cookTime&#34; content=&#34;PT27M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Cooking: 27 minutes&lt;/li&gt;
-  &lt;li itemprop=&#34;totalTime&#34; content=&#34;PT30M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Total: 30 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;totalTime&#34; content=&#34;PT35M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Total: 35 minutes&lt;/li&gt;
   
   
   &lt;li class=&#34;bl-diets&#34;&gt;Diets:
@@ -92,7 +92,7 @@
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/vegan-sausage/&#34;&gt;Vegan Sausage&lt;/a&gt;: 2 small, chopped&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Follow pasta box instruction on how to &lt;a href=&#34;https://beet.life/articles/how-to-boil-pasta/&#34;&gt;boil spaghetti&lt;/a&gt;. If you&amp;rsquo;re using soy or bean pasta, undercook the pasta. Turn stove off. Set aside 1 cup of pasta water. It will be used for the avocado sauce later. Drain water and set aside.&lt;/p&gt;
 &lt;/li&gt;
@@ -225,9 +225,9 @@
 &lt;h1 itemprop=&#34;name&#34; class=&#34;mdl-typography--text-center&#34;&gt;Mung Bean Pasta Salad&lt;/h1&gt;
 &lt;ul class=&#34;bl-recipe-setup&#34;&gt;
   &lt;li itemprop=&#34;recipeYield&#34;&gt;&lt;i class=&#34;fa fa-cutlery&#34;&gt;&lt;/i&gt;Yield: 8 servings&lt;/li&gt;
-  &lt;li itemprop=&#34;prepTime&#34; content=&#34;&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Preparation: 10 minutes&lt;/li&gt;
-  &lt;li itemprop=&#34;cookTime&#34; content=&#34;&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Cooking: 20 minutes&lt;/li&gt;
-  &lt;li itemprop=&#34;totalTime&#34; content=&#34;&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Total: 30 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;prepTime&#34; content=&#34;PT10M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Preparation: 10 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;cookTime&#34; content=&#34;PT20M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Cooking: 20 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;totalTime&#34; content=&#34;PT30M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Total: 30 minutes&lt;/li&gt;
   
   
   &lt;li class=&#34;bl-diets&#34;&gt;Diets:
@@ -264,7 +264,7 @@
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/vegetable-broth/&#34;&gt;Vegetable Broth&lt;/a&gt;: 1/4 cup, low sodium&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;&lt;strong&gt;Mung Bean&lt;/strong&gt;: Bring 6 cups of water to boil. Add the mung beans and boil for 5 minutes. Turn stove off and cover the pot for another 8 minutes or until mung beans reach your desired texture. Drain any excess water.&lt;/p&gt;
 
@@ -462,7 +462,7 @@
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/thyme/&#34;&gt;Thyme&lt;/a&gt;: 3 tbsp, chopped&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Follow pasta box instruction on how to &lt;a href=&#34;https://beet.life/articles/how-to-boil-pasta/&#34;&gt;boil pasta&lt;/a&gt;. Undercook the pasta, at least 3 minutes before al dente. Drain and set aside. It will be combined with the sauce later.&lt;/p&gt;
 &lt;/li&gt;

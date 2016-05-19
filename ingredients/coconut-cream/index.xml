@@ -66,7 +66,7 @@
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/vanilla-protein-powder/&#34;&gt;Vanilla Protein Powder&lt;/a&gt;: 1.2 oz&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Cook steel cut oats in a small pot. Set aside.&lt;/p&gt;
 
@@ -292,7 +292,7 @@
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/thyme/&#34;&gt;Thyme&lt;/a&gt;: 3 tbsp, chopped&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Follow pasta box instruction on how to &lt;a href=&#34;https://beet.life/articles/how-to-boil-pasta/&#34;&gt;boil pasta&lt;/a&gt;. Undercook the pasta, at least 3 minutes before al dente. Drain and set aside. It will be combined with the sauce later.&lt;/p&gt;
 &lt;/li&gt;

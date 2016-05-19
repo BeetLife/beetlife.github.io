@@ -23,7 +23,7 @@
 &lt;div itemscope itemtype=&#34;https://schema.org/Recipe&#34;&gt;
 
 &lt;h2 class=&#34;bl-how-to-instructions&#34;&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34;&gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34;&gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Turn stove on medium heat. Add water to a pot large enough to hold the type of pasta you are planning on cooking. Wait for water to boil. It usually takes about 10 minutes.&lt;/p&gt;
 

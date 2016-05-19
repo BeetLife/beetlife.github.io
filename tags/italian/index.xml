@@ -60,7 +60,7 @@
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/zucchini/&#34;&gt;Zucchini&lt;/a&gt;: 1 medium, cut in squares&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;&lt;strong&gt;Farro:&lt;/strong&gt;
 Cover 2 cups of farro with water and soak in refrigerator overnight. Drain. Boil farro with 3 cups of water, stove on medium-low for 10 minutes. Drain again then set aside.&lt;/p&gt;
@@ -256,7 +256,7 @@ Cover 2 cups of farro with water and soak in refrigerator overnight. Drain. Boil
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/zucchini/&#34;&gt;Zucchini&lt;/a&gt;: 2 large&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Coat a 9-inch square baking pan with olive oil. Layer around &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; cup of tomato sauce on top of olive oil.&lt;/p&gt;
 
@@ -532,7 +532,7 @@ Cover 2 cups of farro with water and soak in refrigerator overnight. Drain. Boil
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/thyme/&#34;&gt;Thyme&lt;/a&gt;: 3 tbsp, chopped&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Follow pasta box instruction on how to &lt;a href=&#34;https://beet.life/articles/how-to-boil-pasta/&#34;&gt;boil pasta&lt;/a&gt;. Undercook the pasta, at least 3 minutes before al dente. Drain and set aside. It will be combined with the sauce later.&lt;/p&gt;
 &lt;/li&gt;

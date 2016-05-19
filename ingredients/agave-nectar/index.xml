@@ -25,9 +25,9 @@
 &lt;h1 itemprop=&#34;name&#34; class=&#34;mdl-typography--text-center&#34;&gt;Mung Bean Pasta Salad&lt;/h1&gt;
 &lt;ul class=&#34;bl-recipe-setup&#34;&gt;
   &lt;li itemprop=&#34;recipeYield&#34;&gt;&lt;i class=&#34;fa fa-cutlery&#34;&gt;&lt;/i&gt;Yield: 8 servings&lt;/li&gt;
-  &lt;li itemprop=&#34;prepTime&#34; content=&#34;&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Preparation: 10 minutes&lt;/li&gt;
-  &lt;li itemprop=&#34;cookTime&#34; content=&#34;&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Cooking: 20 minutes&lt;/li&gt;
-  &lt;li itemprop=&#34;totalTime&#34; content=&#34;&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Total: 30 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;prepTime&#34; content=&#34;PT10M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Preparation: 10 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;cookTime&#34; content=&#34;PT20M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Cooking: 20 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;totalTime&#34; content=&#34;PT30M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Total: 30 minutes&lt;/li&gt;
   
   
   &lt;li class=&#34;bl-diets&#34;&gt;Diets:
@@ -64,7 +64,7 @@
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/vegetable-broth/&#34;&gt;Vegetable Broth&lt;/a&gt;: 1/4 cup, low sodium&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;&lt;strong&gt;Mung Bean&lt;/strong&gt;: Bring 6 cups of water to boil. Add the mung beans and boil for 5 minutes. Turn stove off and cover the pot for another 8 minutes or until mung beans reach your desired texture. Drain any excess water.&lt;/p&gt;
 
@@ -250,7 +250,7 @@
   &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/water/&#34;&gt;Water&lt;/a&gt;: 4 1/2 cups&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Instructions&lt;/h2&gt;
-&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; itemprop=&#34;itemListOrder&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
 
 &lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Put coconut milk, rice, raisins, dried blueberries and garbanzo beans in slow cooker. Set slow cooker on high.&lt;/p&gt;
 &lt;/li&gt;

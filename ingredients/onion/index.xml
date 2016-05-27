@@ -6,8 +6,225 @@
     <description>Recent content in Onion on Beet Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 May 2016 10:21:39 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 26 May 2016 15:07:26 -0400</lastBuildDate>
     <atom:link href="https://beet.life/ingredients/onion/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vegan Kare Kare</title>
+      <link>https://beet.life/recipes/kare-kare/</link>
+      <pubDate>Thu, 26 May 2016 15:07:26 -0400</pubDate>
+      
+      <guid>https://beet.life/recipes/kare-kare/</guid>
+      <description>&lt;p&gt;Kare Kare is a traditional filipino dish comprised of meat and vegetables stewed in a creamy peanut sauce. This plant-based version replaces meat with extra firm tofu. My grandma usually puts &lt;a href=&#34;https://en.wikipedia.org/wiki/Chayote&#34;&gt;chayote&lt;/a&gt; in the dish. Chayote is a lime-colored squash shaped like a pear. It is high in potassium and low in sodium which is good for maintaining a healthy blood pressure. It is also rich in vitamin C, B-6 and folate. You can use summer squash as a substitute if you can&amp;rsquo;t find chayote in the grocery stores near you.&lt;/p&gt;
+
+&lt;p&gt;The combination of peanut butter and the aromatic licorice flavor from the star anise gives this dish a simple, but distinct flavor. The peanut butter sauce is made of water (or vegetable broth), Bragg&amp;rsquo;s Liquid Aminos (or soy sauce), creamy peanut butter, ground black pepper and star anise. That&amp;rsquo;s it! It&amp;rsquo;s very easy to make and takes around 20 minutes to cook after preparing all the vegetables! Each serving has 10.3 g of monounsaturated fat from the peanut butter and olive oil. Monunsaturated fat helps reduce bad cholesterol levels, lowering risks of heart disease and stroke.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A quick note on Star Anise:&lt;/em&gt; Star anise is not the same as anise seeds. Anise seeds are light brown oblong-shaped seeds from an herbal plant native to the Mediterrenean region and Southwest Asia. Star anise, on the other hand, is a star-shaped fruit of an evergreen tree native to China. Although both have an aromatic licorice flavor, they are from completely different plants.&lt;/p&gt;
+
+
+&lt;h1 itemprop=&#34;name&#34; class=&#34;mdl-typography--text-center&#34;&gt;Vegan Kare Kare&lt;/h1&gt;
+&lt;ul class=&#34;bl-recipe-setup&#34;&gt;
+  &lt;li itemprop=&#34;recipeYield&#34;&gt;&lt;i class=&#34;fa fa-cutlery&#34;&gt;&lt;/i&gt;Yield: 4 servings&lt;/li&gt;
+  &lt;li itemprop=&#34;prepTime&#34; content=&#34;PT10M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Preparation: 10 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;cookTime&#34; content=&#34;PT20M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Cooking: 20 minutes&lt;/li&gt;
+  &lt;li itemprop=&#34;totalTime&#34; content=&#34;PT30M&#34;&gt;&lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;Total: 30 minutes&lt;/li&gt;
+  
+  
+  &lt;li class=&#34;bl-diets&#34;&gt;Diets:
+  
+  
+  
+  &lt;span itemprop=&#34;suitableForDiet&#34; itemscope itemtype=&#34;http://schema.org/VeganDiet&#34;&gt;&lt;a href=&#34;https://beet.life/diets/vegan&#34;&gt;Vegan&lt;/a&gt;&lt;/span&gt;
+  
+  
+  
+  &lt;span itemprop=&#34;suitableForDiet&#34; itemscope itemtype=&#34;http://schema.org/VegetarianDiet&#34;&gt;&lt;a href=&#34;https://beet.life/diets/vegetarian&#34;&gt;Vegetarian&lt;/a&gt;&lt;/span&gt;
+  
+  &lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul class=&#34;bl-recipe-ingredients&#34;&gt;
+  
+  
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/bok-choy/&#34;&gt;Bok Choy&lt;/a&gt;: 6 oz&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/braggs-liquid-aminos/&#34;&gt;Bragg&amp;#39;S Liquid Aminos&lt;/a&gt;: 2 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/carrots/&#34;&gt;Carrots&lt;/a&gt;: 4 medium-sized multi-color carrots, sliced&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/chayote/&#34;&gt;Chayote&lt;/a&gt;: 1 whole&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/garlic/&#34;&gt;Garlic&lt;/a&gt;: 6 tsp, minced&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/ground-black-pepper/&#34;&gt;Ground Black Pepper&lt;/a&gt;: 2 tsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/haricots-verts/&#34;&gt;Haricots Verts&lt;/a&gt;: 3 cups&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/olive-oil/&#34;&gt;Olive Oil&lt;/a&gt;: 2 tbsp&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/onion/&#34;&gt;Onion&lt;/a&gt;: 1 large, sliced&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/peanut-butter/&#34;&gt;Peanut Butter&lt;/a&gt;: 2 1/2 tbsp, creamy unsalted&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/salt/&#34;&gt;Salt&lt;/a&gt;: to taste (optional)&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/star-anise/&#34;&gt;Star Anise&lt;/a&gt;: 2 whole&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/sweet-potato/&#34;&gt;Sweet Potato&lt;/a&gt;: 1 medium&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/tofu/&#34;&gt;Tofu&lt;/a&gt;: 7.5 oz, extra firm, cubed&lt;/li&gt;
+  &lt;li itemprop=&#34;ingredients&#34;&gt;&lt;a href=&#34;https://beet.life/ingredients/water/&#34;&gt;Water&lt;/a&gt;: 1 cup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Instructions&lt;/h2&gt;
+&lt;ol itemprop=&#34;recipeInstructions&#34; itemscope itemtype=&#34;http://schema.org/ItemList&#34; content=&#34;http://schema.org/ItemListOrderAscending&#34; class=&#34;bl-recipe-steps&#34; &gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Turn stove on medium heat. Heat oil in sauce pan. Add garlic and onion. When onion becomes translucent, add carrots and sweet potatoes. Stir well and cover for 2 minutes.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0047-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0047-mobile@1x.jpg 435w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0047-mobile@2x.jpg 870w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0047-full@1x.jpg 876w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0047-mobile@3x.jpg 1305w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0047-full@2x.jpg 1752w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0047-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the previous recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Add 1 cup of water. When water boils, add peanut butter, star anise, ground black pepper, and Bragg&amp;rsquo;s liquid aminos. Stir frequently.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0049-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0049-mobile@1x.jpg 435w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0049-mobile@2x.jpg 870w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0049-full@1x.jpg 876w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0049-mobile@3x.jpg 1305w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0049-full@2x.jpg 1752w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0049-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the previous recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;The peanut butter and water should meld together into a creamy sauce like this:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0055-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0055-mobile@1x.jpg 435w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0055-mobile@2x.jpg 870w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0055-full@1x.jpg 876w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0055-mobile@3x.jpg 1305w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0055-full@2x.jpg 1752w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0055-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the previous recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Turn stove on high. Add the cubed tofu and chayote. Stir well and cover for 3 minutes.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0051-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0051-mobile@1x.jpg 435w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0051-mobile@2x.jpg 870w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0051-full@1x.jpg 876w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0051-mobile@3x.jpg 1305w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0051-full@2x.jpg 1752w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0051-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the previous recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Add haricots verts. Stir well and cover for another 5 minutes or until vegetables reach desired consistency.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0057-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0057-mobile@1x.jpg 435w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0057-mobile@2x.jpg 870w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0057-full@1x.jpg 876w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0057-mobile@3x.jpg 1305w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0057-full@2x.jpg 1752w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0057-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the previous recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+&lt;li itemprop=&#34;itemListElement&#34; class=&#34;bl-recipe-steps__step&#34;&gt;&lt;p&gt;Add bok choy. Mix and cover until bok choy is al dente. Serve hot.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img itemprop=&#34;image&#34; class=&#34;bl-img lazyload&#34; src=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0122-full@1x.jpg&#34; data-srcset=&#34;https://beet.life/images/recipes/kare-kare/20160515-DSC_0122-mobile@1x.jpg 435w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0122-mobile@2x.jpg 870w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0122-full@1x.jpg 876w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0122-mobile@3x.jpg 1305w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0122-full@2x.jpg 1752w, https://beet.life/images/recipes/kare-kare/20160515-DSC_0122-full@3x.jpg 2628w&#34; data-sizes=&#34;(max-width: 876px) 100vw, 876px&#34; alt=&#34;Image demonstrating the previous recipe step instructions&#34; srcset=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;&gt;
+
+
+&lt;/li&gt;
+
+
+&lt;/ol&gt;
+&lt;p&gt;Remember to tag &lt;a href=&#34;https://twitter.com/intent/tweet?text=Tried%20%40BeetLife%27s%20%27Vegan%20Kare%20Kare%27%20Recipe;url=https%3a%2f%2fbeet.life%2frecipes%2fkare-kare%2f;hashtags=ourbeetlife&#34;&gt;#ourbeetlife&lt;/a&gt; if you try this recipe!&lt;/p&gt;
+
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt; - This is not a sponsored post. We are not affiliated with any products or brands shown or mentioned in this post and we did not receive any compensation for writing this post at the time of writing.&lt;/em&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Vegan Giniling Guisado (Picadillo)</title>
